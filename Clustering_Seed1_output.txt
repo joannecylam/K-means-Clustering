@@ -1,0 +1,75 @@
+Centroids initialized at:
+('(', 1.0, ', ', 1.0, ')')
+('(', 5.0, ', ', 10.0, ')')
+('(', 6.0, ', ', 2.0, ')')
+('(', 9.0, ', ', 9.0, ')')
+()
+data 0in cluster0
+Total in Cluster1
+recalculate centroid of cluster0
+('(', 1.0, ', ', 1.0, ')')
+data 4in cluster1
+Total in Cluster1
+recalculate centroid of cluster1
+('(', 5.0, ', ', 10.0, ')')
+data 6in cluster2
+Total in Cluster1
+recalculate centroid of cluster2
+('(', 6.0, ', ', 2.0, ')')
+data 11in cluster3
+Total in Cluster1
+recalculate centroid of cluster3
+('(', 9.0, ', ', 9.0, ')')
+update counter= 1
+data 0in cluster0
+data 1in cluster0
+data 2in cluster0
+data 3in cluster0
+Total in Cluster4
+recalculate centroid of cluster0
+('(', 1.5, ', ', 1.5, ')')
+data 4in cluster1
+data 5in cluster1
+data 8in cluster1
+Total in Cluster3
+recalculate centroid of cluster1
+('(', 5.333333333333333, ', ', 10.666666666666666, ')')
+data 6in cluster2
+data 7in cluster2
+data 9in cluster2
+data 10in cluster2
+Total in Cluster4
+recalculate centroid of cluster2
+('(', 6.5, ', ', 3.25, ')')
+data 11in cluster3
+data 12in cluster3
+data 13in cluster3
+data 14in cluster3
+Total in Cluster4
+recalculate centroid of cluster3
+('(', 10.0, ', ', 8.25, ')')
+update counter= 2
+('Cluster ', 0, ' includes:')
+('(', 1.0, ', ', 1.0, ')')
+('(', 1.0, ', ', 2.0, ')')
+('(', 2.0, ', ', 0, ')')
+('(', 2.0, ', ', 3.0, ')')
+()
+('Cluster ', 1, ' includes:')
+('(', 5.0, ', ', 10.0, ')')
+('(', 5.0, ', ', 12.0, ')')
+('(', 6.0, ', ', 10.0, ')')
+()
+('Cluster ', 2, ' includes:')
+('(', 6.0, ', ', 2.0, ')')
+('(', 6.0, ', ', 4.0, ')')
+('(', 7.0, ', ', 2.0, ')')
+('(', 7.0, ', ', 5.0, ')')
+()
+('Cluster ', 3, ' includes:')
+('(', 9.0, ', ', 9.0, ')')
+('(', 10.0, ', ', 7.0, ')')
+('(', 10.0, ', ', 9.0, ')')
+('(', 11.0, ', ', 8.0, ')')
+()
+
